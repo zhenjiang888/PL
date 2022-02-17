@@ -1,0 +1,14 @@
+instructors:
+  胡振江:
+    title: 教授
+    profile_pic: /_images/instructors/Zhenjiang-Hu.jpg
+    webpage: http://sei.pku.edu.cn/~hu/
+  赵海燕:
+    title: 副教授
+    profile_pic: /_images/instructors/Haiyan-Zhao.jpg
+    webpage: http://sei.pku.edu.cn/~zhhy/
+
+teaching_assistants:
+  张星:
+    profile_pic: /_images/anonymous.jpg
+    email: zhangstar@stu.pku.edu.cn
