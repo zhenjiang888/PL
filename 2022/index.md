@@ -38,10 +38,10 @@ layout: home
 
 |Class|Date|Topic and Readings|Lecturer|
 |----|----|----|----|
-|1|23-Feb|Introduction + Untyped arithmetic operations|Hu (Zhao)|
+|1|23-Feb|Introduction<br>Untyped arithmetic operations|Hu (Zhao)|
 |2|2-Mar|OCaml|Zhao|
-|3|9-Mar|Lambda Calculus + Nameless Representation|Zhao|
-|4|16-Mar|Type Basics + Simple Typed lambda Calculus + Simply Extensions|Zhao|
+|3|9-Mar|Lambda Calculus<br>Nameless Representation|Zhao|
+|4|16-Mar|Type Basics<br>Simple Typed lambda Calculus<br>Simply Extensions|Zhao|
 |5|23-Mar|In class Practice|Zhao/TA|
 |6|30-Mar|Reference|Zhao|
 |7|6-Apr|Exception|Zhao|
@@ -50,8 +50,8 @@ layout: home
 |10|27-Apr|Case Study: Imperative Objects<br>Case Study: Featherweight Java|Hu|
 |11|4-May|May Festival (No class)|/|
 |12|11-May|In-class Practice|Hu/TA|
-|13|18-May|Recursive Types + Metatheory of Recursive Types|Hu|
-|14|25-May|Type reconstruction + Universal types|Hu|
+|13|18-May|Recursive Types<br>Metatheory of Recursive Types|Hu|
+|14|25-May|Type Reconstruction<br>Universal Types|Hu|
 |15|1-Jun|Existential Types|Hu|
 |16|8-Jun|Final Presentation|Hu/Zhao|
 
