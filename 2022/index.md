@@ -73,7 +73,7 @@ layout: home
         <tr>
             <td>5</td>
             <td>23-Mar</td>
-            <td>In class Practice</td>
+            <td>In-class Practice</td>
             <td>Zhao/TA</td>
         </tr>
         <tr>
