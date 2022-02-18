@@ -36,30 +36,114 @@ layout: home
 
 ### 内容提要
 
-|Class|Date|Topic and Readings|Lecturer|
-|----|----|----|----|
-|1|23-Feb|Introduction<br>Untyped arithmetic operations|Hu (Zhao)|
-|2|2-Mar|OCaml|Zhao|
-|3|9-Mar|Lambda Calculus<br>Nameless Representation|Zhao|
-|4|16-Mar|Type Basics<br>Simple Typed lambda Calculus<br>Simply Extensions|Zhao|
-|5|23-Mar|In class Practice|Zhao/TA|
-|6|30-Mar|Reference|Zhao|
-|7|6-Apr|Exception|Zhao|
-|8|13-Apr|Subtyping|Zhao|
-|9|20-Apr|Middle Test (+ Check project)|Zhao/Hu|
-|10|27-Apr|Case Study: Imperative Objects<br>Case Study: Featherweight Java|Hu|
-|11|4-May|May Festival (No class)|/|
-|12|11-May|In-class Practice|Hu/TA|
-|13|18-May|Recursive Types<br>Metatheory of Recursive Types|Hu|
-|14|25-May|Type Reconstruction<br>Universal Types|Hu|
-|15|1-Jun|Existential Types|Hu|
-|16|8-Jun|Final Presentation|Hu/Zhao|
-<style>
-table {
-    border: 1;
-    cellspacing: 1;
-}
-</style>
+<table border="1" cellspacing="1">
+    <thead>
+        <tr>
+            <th>Class</th>
+            <th>Date</th>
+            <th>Topic and Readings</th>
+            <th>Lecturer</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>23-Feb</td>
+            <td>Introduction<br>Untyped arithmetic operations</td>
+            <td>Hu (Zhao)</td>
+        </tr>
+       <tr>
+            <td>2</td>
+            <td>2-Mar</td>
+            <td>OCaml</td>
+            <td>Zhao</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>9-Mar</td>
+            <td>Lambda Calculus<br>Nameless Representation</td>
+            <td>Zhao</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>16-Mar</td>
+            <td>Type Basics<br>Simple Typed lambda Calculus<br>Simply Extensions</td>
+            <td>Zhao</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>23-Mar</td>
+            <td>In class Practice</td>
+            <td>Zhao/TA</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>30-Mar</td>
+            <td>Reference</td>
+            <td>Zhao</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>6-Apr</td>
+            <td>Exception</td>
+            <td>Zhao</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>13-Apr</td>
+            <td>Subtyping</td>
+            <td>Zhao</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>20-Apr</td>
+            <td>Middle Test (+ Check project)</td>
+            <td>Zhao/Hu</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>27-Apr</td>
+            <td>Case Study: Imperative Objects<br>Case Study: Featherweight Java</td>
+            <td>Hu</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>4-May</td>
+            <td>May Festival (No class)</td>
+            <td>/</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>11-May</td>
+            <td>In-class Practice</td>
+            <td>Hu/TA</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>18-May</td>
+            <td>Recursive Types<br>Metatheory of Recursive Types</td>
+            <td>Hu</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>25-May</td>
+            <td>Type Reconstruction<br>Universal Types</td>
+            <td>Hu</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>1-Jun</td>
+            <td>Existential Types</td>
+            <td>Hu</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>8-Jun</td>
+            <td>Final Presentation</td>
+            <td>Hu/Zhao</td>
+        </tr>
+    </tbody>
+</table>
 
 <!-- ### 教学方式
 
