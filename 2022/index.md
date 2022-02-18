@@ -36,24 +36,24 @@ layout: home
 
 ### 内容提要
 
-|Class|Date|Topic and Readings|
-|----|----|----|
-|1|23-Feb|Introduction + Untyped arithmetic operations|
-|2|2-Mar|Quick tour of OCaml|
-|3|9-Mar|Lambda Calculus & Nameless Representation|
-|4|16-Mar|Type Basics + Simple Typed lambda Calculus + Simply Extensions|
-|5|23-Mar|In class Practice|
-|6|30-Mar|Reference|
-|7|6-Apr|Exception|
-|8|13-Apr|Subtyping|
-|9|20-Apr|Middle Test (+ Check project)|
-|10|27-Apr|Case Study: Imperative Objects<br>Case Study: Featherweight Java|
-|11|4-May|May Festival (No class)|
-|12|11-May|In-class Practice|
-|13|18-May|Recursive Types<br>Metatheory of Recursive Types|
-|14|25-May|Recursive Types<br>Metatheory of Recursive Types|
-|15|1-Jun|Existential Types|
-|16|8-Jun|Final：Project presentation|
+|Class|Date|Topic and Readings|Lecturer|
+|----|----|----|----|
+|1|23-Feb|Introduction + Untyped arithmetic operations|Hu (Zhao)|
+|2|2-Mar|OCaml|Zhao|
+|3|9-Mar|Lambda Calculus + Nameless Representation|Zhao|
+|4|16-Mar|Type Basics + Simple Typed lambda Calculus + Simply Extensions|Zhao|
+|5|23-Mar|In class Practice|Zhao/TA|
+|6|30-Mar|Reference|Zhao|
+|7|6-Apr|Exception|Zhao|
+|8|13-Apr|Subtyping|Zhao|
+|9|20-Apr|Middle Test (+ Check project)|Zhao/Hu|
+|10|27-Apr|Case Study: Imperative Objects<br>Case Study: Featherweight Java|Hu|
+|11|4-May|May Festival (No class)|/|
+|12|11-May|In-class Practice|Hu/TA|
+|13|18-May|Recursive Types + Metatheory of Recursive Types|Hu|
+|14|25-May|Type reconstruction + Universal types|Hu|
+|15|1-Jun|Existential Types|Hu|
+|16|8-Jun|Final Presentation|Hu/Zhao|
 
 <!-- ### 教学方式
 
