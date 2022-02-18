@@ -7,13 +7,14 @@ layout: default
 
     <h1>{{ course_name }} <span style="font-size: 20px;color: #0006;">/ {{ course_semester }} </span></h1>
 
-    {% include announcements.html %}
-    <br>
+    <!-- {% include announcements.html %}
+    <br> -->
 
     <h2>课程简介</h2>
     <p>{{ course_description | newline_to_br }}</p>
 
     {{ content }}
+    <br>
 
     <h2>往年课程</h2>
     <ul class="previous-offerings">
