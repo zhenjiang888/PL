@@ -54,6 +54,12 @@ layout: home
 |14|25-May|Type Reconstruction<br>Universal Types|Hu|
 |15|1-Jun|Existential Types|Hu|
 |16|8-Jun|Final Presentation|Hu/Zhao|
+<style>
+table {
+    border: 1;
+    cellspacing: 1;
+}
+</style>
 
 <!-- ### 教学方式
 
