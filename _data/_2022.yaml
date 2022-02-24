@@ -8,5 +8,6 @@ lectures:
     link: hu_ch3.pdf
   assignment:
     descriptions:
-    - text: 1. 安装 OCaml 2. 完成课程讲义上的习题
+    - text: 安装 OCaml 
+    - text: 完成课程讲义上的习题
     due: 2022/03/02
