@@ -1,3 +1,12 @@
 lectures:
-- teacher: 未发布
-  date: 2022/02/23
+- teacher: 胡振江
+  date: 2021/09/15
+  slides:
+  - title: "Introduction"
+    link: intro.pdf
+  - title: "Untyped arithmetic operations"
+    link: hu_ch3.pdf
+  assignment:
+    descriptions:
+    - text: 1. 安装 OCaml 2. 完成课程讲义上的习题
+    due: 2022/03/02
