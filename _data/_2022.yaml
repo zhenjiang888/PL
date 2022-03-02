@@ -1,6 +1,6 @@
 lectures:
 - teacher: 胡振江
-  date: 2021/09/15
+  date: 2022/02/23
   slides:
   - title: "Introduction"
     link: intro.pdf
@@ -11,3 +11,11 @@ lectures:
     - text: 安装 OCaml 
     - text: 完成课程讲义上的习题
     due: 2022/03/02
+- teacher: 赵海燕
+  date: 2022/03/02
+  slides:
+  - title: "OCaml"
+    link: zhao_OCaml_Overview.pdf
+  assignment:
+    descriptions:
+    - text: 熟悉 OCaml 
