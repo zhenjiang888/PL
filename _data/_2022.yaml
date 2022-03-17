@@ -29,3 +29,16 @@ lectures:
     - text: 熟悉教材第五章
     - text: 完成习题 5.2.7 以及 5.3.6 （见课程讲义最后一页）
     due: 2022/03/16
+  - teacher: 赵海燕
+    date: 2022/03/16
+    slides:
+    - title: "Nameless Representation"
+      link: zhao_ch6.pdf
+    - title: "Typed Arithmetic Expressions"
+      link: zhao_ch8.pdf
+    assignment:
+      descriptions:
+      - text: 熟悉教材第六章、第八章
+      - text: 完成习题 6.2.5 以及 8.3.7 （见课程讲义最后一页）
+      - text: 下周习题课需要带笔记本电脑
+      due: 2022/03/23
