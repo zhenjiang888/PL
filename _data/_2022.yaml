@@ -51,7 +51,7 @@ lectures:
     link: zhao_ch11.pdf
   assignment:
     descriptions:
-    - text: 完成 arith, fullsimple, fullref 三个练习
+    - text: 完成 arith, fullsimple 两个练习
       link: homeworks/zhao_practice.pdf
     - text: OCaml 4.06 可用的程序包如下 （老版本程序包请从教材官网下载）
     - text: arith
