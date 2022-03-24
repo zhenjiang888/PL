@@ -42,3 +42,22 @@ lectures:
     - text: 完成习题 6.2.5 以及 8.3.7 （见课程讲义最后一页）
     - text: 下周习题课需要带笔记本电脑
     due: 2022/03/23
+- teacher: 赵海燕
+  date: 2022/03/23
+  slides:
+  - title: "Simply Typed Lambda-Calculus"
+    link: zhao_ch9.pdf
+  - title: "Simply Extensions"
+    link: zhao_ch11.pdf
+  assignment:
+    descriptions:
+    - text: 完成 arith, fullsimple, fullref 三个练习
+      link: homeworks/zhao_practice.pdf
+    - text: OCaml 4.06 可用的程序包如下 （老版本程序包请从教材官网下载）
+    - text: arith
+      link: homeworks/arith.newocaml.zip
+    - text: fullsimple
+      link: homeworks/fullsimple.newocaml.zip
+    - text: fullsimple.match.problem
+      link: homeworks/fullsimple.match.problem.newocaml.zip
+    due: 2022/03/30
