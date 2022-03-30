@@ -61,3 +61,13 @@ lectures:
     - text: fullsimple.match.problem
       link: homeworks/fullsimple.match.problem.newocaml.zip
     due: 2022/03/30
+- teacher: 赵海燕
+  date: 2022/03/30
+  slides:
+  - title: "Reference"
+    link: zhao_ch13.pdf
+  assignment:
+    descriptions:
+    - text: 完成 13.4.1, 13.5.8 两个练习
+    - text: 组队信息 (姓名+学号)
+    due: 2022/04/06
