@@ -71,3 +71,14 @@ lectures:
     - text: 完成 13.4.1, 13.5.8 两个练习
     - text: 组队信息 (姓名+学号)
     due: 2022/04/06
+- teacher: 赵海燕
+  date: 2022/04/06
+  slides:
+  - title: "Exceptions"
+    link: zhao_ch14.pdf
+  - title: "Subtyping"
+    link: zhao_ch15-p1.pdf
+  assignment:
+    descriptions:
+    - text: 完成习题 14.3.1，15.2.3，以及 15.2.5
+    due: 2022/04/13
