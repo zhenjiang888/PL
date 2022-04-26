@@ -82,3 +82,12 @@ lectures:
     descriptions:
     - text: 完成习题 14.3.1，15.2.3，以及 15.2.5
     due: 2022/04/13
+- teacher: 赵海燕
+  date: 2022/04/13
+  slides:
+  - title: "Metatheory of Subtyping"
+    link: zhao_ch15-16.pdf
+  assignment:
+    descriptions:
+    - text: 完成习题 16.1.2 和 16.2.5
+    due: 2022/04/20
