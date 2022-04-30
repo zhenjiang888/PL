@@ -91,3 +91,14 @@ lectures:
     descriptions:
     - text: 完成习题 16.1.2 和 16.2.5
     due: 2022/04/20
+- teacher: 胡振江
+  date: 2022/04/27
+  slides:
+  - title: "Case Study: Imperative Objects"
+    link: hu_ch18.pdf
+  - title: "Case Study: Featherweight Java"
+    link: hu_ch19.pdf
+  assignment:
+    descriptions:
+    - text: 完成习题 18.11.1（见19章PPT最后）
+    due: 2022/05/11
