@@ -102,3 +102,15 @@ lectures:
     descriptions:
     - text: 完成习题 18.11.1（见19章PPT最后）
     due: 2022/05/11
+- teacher: 胡振江
+  date: 2022/05/11
+  slides:
+  - title: "Recursive Types"
+    link: hu_ch20.pdf
+  - title: "Metatheory of Recursive Types"
+    link: hu_ch21.pdf
+  assignment:
+    descriptions:
+    - text: 见 "Recursive Types" PPT 最后 
+    - text: 完成习题 21.5.2
+    due: 2022/05/18
