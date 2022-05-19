@@ -112,5 +112,13 @@ lectures:
   assignment:
     descriptions:
     - text: 见 "Recursive Types" PPT 最后 
-    - text: 完成习题 21.5.2
     due: 2022/05/18
+- teacher: 胡振江
+  date: 2022/05/18
+  slides:
+  - title: "Type Reconstruction"
+    link: hu_ch22.pdf
+  assignment:
+    descriptions:
+    - text: 完成习题 21.5.2 & 22.5.5
+    due: 2022/05/25
