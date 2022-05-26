@@ -120,5 +120,16 @@ lectures:
     link: hu_ch22.pdf
   assignment:
     descriptions:
-    - text: 完成习题 21.5.2 & 22.5.5
+    - text: 完成习题 21.5.2
     due: 2022/05/25
+- teacher: 胡振江
+  date: 2022/05/25
+  slides:
+  - title: "Universal Types"
+    link: hu_ch23.pdf
+  - title: "Existential Types"
+    link: hu_ch24.pdf
+  assignment:
+    descriptions:
+    - text: 完成习题 22.5.5、23.5.1、23.5.2
+    due: 2022/06/01
