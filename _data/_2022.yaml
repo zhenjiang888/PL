@@ -133,3 +133,14 @@ lectures:
     descriptions:
     - text: 完成习题 22.5.5、23.5.1、23.5.2
     due: 2022/06/01
+- teacher: 胡振江
+  date: 2022/06/01
+  slides:
+  - title: "Bounded Quantification"
+    link: hu_ch26.pdf
+  - title: "Type Operators and Kinding"
+    link: hu_ch29.pdf
+  assignment:
+    descriptions:
+    - text: 准备 Final Presentation
+    due: 2022/06/08
